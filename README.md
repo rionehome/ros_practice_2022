@@ -1,15 +1,23 @@
 # ros_practice_2022
 
 パソコンからgithubへの更新
+
   git add (ファイル名)
+  
   git commit -m "(メッセージ)
+  
   git push origin (ブランチ名)
+  
 
 ブランチの作成
+
   git branch (ブランチ名)
+  
 
 ブランチの切り替え
+
   git checkout (ブランチ名)
+  
 
 githubからパソコンへの更新
   git pull origin (ブランチ名)
