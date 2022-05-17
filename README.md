@@ -15,26 +15,19 @@
   <dt>githubからパソコンへの更新</dt>
     <dd>git pull origin (ブランチ名)</dd>
   
-<dl>
-
-パッケージの情報をrosシステムへ更新
-
-  cd (ワークスペース)
+  <dt>パッケージの情報をrosシステムへ更新</dt>
+    <dd>cd (ワークスペース)</dd>
+    <dd>catkin_make</dd>
+    
+    <dd>(ターミナルを開いたままの場合)</dd>
+    <dd>コマンドへの更新</dd>
+    <dd>source devel/setup.bash</dd>
   
-  catkin_make
-  
-(ターミナルを開いたままの場合)
+  <dt>ros実行</dt>
+    <dd>roscore</dd>
+    <dd>rosrun (パッケージ名) (ファイル名)</dd>
 
-コマンドへの更新
-
-  source devel/setup.bash
-  
-
-ros実行
-
-  roscore
-  
-  rosrun (パッケージ名) (ファイル名)
+</dl>
   
 
 
