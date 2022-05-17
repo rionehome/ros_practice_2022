@@ -2,18 +2,18 @@
   
 
 **よく使うLinuxコマンド**
-  - sudo        super user  
+  - sudo    
   - sudo su  
-  - apt         advanced package tool
-  - pwd         print working directory  
-  - cd          change directory  
-  - ls          list  
-  - ls -a       
-  - ls -l       
+  - apt  
+  - pwd  
+  - cd  
+  - ls   
+  - ls -a  
+  - ls -l   
   - mv  
   - echo  
   - cat  
-  - vim         sudo apt install vim  
+  - vim  
   - chmod (+,-,=)(権限) (ファイル名)  
   ('-'or'd')(admin)(local)(others)
     | do  | num |
