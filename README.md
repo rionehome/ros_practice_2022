@@ -2,11 +2,9 @@
 
 <dl>
   <dt>パソコンからgithubへの更新</dt>
-  <dd>git add (ファイル名)</dd>
-  
+    <dd>git add (ファイル名)</dd>
     <dd>git commit -m "(メッセージ)</dd>
-  
-  <dd>git push origin (ブランチ名)</dd>
+    <dd>git push origin (ブランチ名)</dd>
 </dl>
 
 ブランチの作成
