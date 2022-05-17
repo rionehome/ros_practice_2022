@@ -1,7 +1,27 @@
 # ros_practice_2022
   
-  
 
+**よく使うコマンド**
+  - pwd         print working directory
+  - cd          change directory
+  - ls          list
+  - ls -a       
+  - ls -l       
+  - 
+
+**ワークスペースの作成**
+  - mkdir -p (ワークスペース名)/src
+  - cd (ワークスペース名)/src
+  - catkin_init_workspace
+  - cd ..
+  - catkin_make
+  - echo "source (ワークスペースまでのパス)/devel/setup.bash" >> ~/.bashrc
+
+**パッケージの作成**
+  - cd (ワークスペースまでのパス)/src
+  - catkin_create_pkg (パッケージ名)
+  - cd ..
+  - catkin_make
 
 **パソコンからgithubへの更新**
   - git add (ファイル名)  
