@@ -5,35 +5,32 @@
   - git commit -m "(メッセージ)  
   - git push origin (ブランチ名)  
 
-  <dt>ブランチの作成
-    <dd>git branch (ブランチ名)</dd>
+**ブランチの作成**
+  - git branch (ブランチ名)  
  
-  <dt>ブランチの切り替え</dt>
-    <dd>git checkout (ブランチ名)</dd>
+**ブランチの切り替え**
+  - git checkout (ブランチ名)  
 
-  <dt>githubからパソコンへの更新</dt>
-    <dd>git pull origin (ブランチ名)</dd>
+**githubからパソコンへの更新**
+  - git pull origin (ブランチ名)  
   
-  <dt>パッケージの情報をrosシステムへ更新</dt>
-    <dd>cd (ワークスペース)</dd>
-    <dd>catkin_make</dd>
-    <dd>(ターミナルを開いたままの場合)</dd>
-    <dd>コマンドへの更新</dd>
-    <dd>source devel/setup.bash</dd>
+**パッケージの情報をrosシステムへ更新**
+  - cd (ワークスペース)  
+  - catkin_make  
+  (ターミナルを開いたままの場合)  
+  コマンドへの更新  
+  - source devel/setup.bash  
   
-  <dt>ros実行</dt>
-    <dd>roscore</dd>
-    <dd>rosrun (パッケージ名) (ファイル名)</dd>
-
-<dl>
-  <dt>その他</dt>
-    <dd>rosnode list</dd>
-    <dd>rosnode info (ノード名)</dd>
-    <dd>rostopic list</dd>
-    <dd>rostopic info (トピック名)</dd>
-    <dd>rostopic echo (トピック名)</dd>
-    <dd>rosrun rqt_graph rqt_graph</dd>
-    <dd>roslaunch (パッケージ名) (ローンチファイル名)</dd>
-</dl>
-
-
+**ros実行**
+  - roscore  
+  - rosrun (パッケージ名) (ファイル名)  
+  
+  
+**その他**
+  - rosnode list  
+  - rosnode info (ノード名)  
+  - rostopic list  
+  - rostopic info (トピック名)  
+  - rostopic echo (トピック名)  
+  - rosrun rqt_graph rqt_graph  
+  - roslaunch (パッケージ名) (ローンチファイル名)  
