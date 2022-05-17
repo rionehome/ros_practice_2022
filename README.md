@@ -1,10 +1,9 @@
 # ros_practice_2022
 
-<dl>
-  <dt>パソコンからgithubへの更新</dt>
-    <dd>git add (ファイル名)</dd>
-    <dd>git commit -m "(メッセージ)</dd>
-    <dd>git push origin (ブランチ名)</dd>
+**パソコンからgithubへの更新**
+  -$git add (ファイル名)
+  -$git commit -m "(メッセージ)
+  -$git push origin (ブランチ名)
 
   <dt>ブランチの作成
     <dd>git branch (ブランチ名)</dd>
@@ -25,7 +24,6 @@
   <dt>ros実行</dt>
     <dd>roscore</dd>
     <dd>rosrun (パッケージ名) (ファイル名)</dd>
-</dl>
 
 <dl>
   <dt>その他</dt>
