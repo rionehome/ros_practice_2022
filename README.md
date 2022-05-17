@@ -1,13 +1,26 @@
 # ros_practice_2022
   
 
-**よく使うコマンド**
-  - pwd         print working directory
-  - cd          change directory
-  - ls          list
+**よく使うLinuxコマンド**
+  - sudo        super user  
+  - sudo su  
+  - apt         advanced package tool
+  - pwd         print working directory  
+  - cd          change directory  
+  - ls          list  
   - ls -a       
   - ls -l       
-  - 
+  - mv  
+  - echo  
+  - cat  
+  - vim         sudo apt install vim  
+  - chmod (+,-,=)(権限) (ファイル名)  
+  ('-'or'd')(admin)(local)(others)
+    | do  | num |
+    |:---:|:---:|
+    |r    |4    |
+    |w    |2    |
+    |x    |1    |
 
 **ワークスペースの作成**
   - mkdir -p (ワークスペース名)/src
