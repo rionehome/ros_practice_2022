@@ -5,23 +5,17 @@
     <dd>git add (ファイル名)</dd>
     <dd>git commit -m "(メッセージ)</dd>
     <dd>git push origin (ブランチ名)</dd>
-</dl>
 
-ブランチの作成
+  <dt>ブランチの作成
+    <dd>git branch (ブランチ名)</dd>
+ 
+  <dt>ブランチの切り替え</dt>
+    <dd>git checkout (ブランチ名)</dd?
 
-  git branch (ブランチ名)
+  <dt>githubからパソコンへの更新</dt>
+    <dd>git pull origin (ブランチ名)</dd>
   
-
-ブランチの切り替え
-
-  git checkout (ブランチ名)
-  
-
-githubからパソコンへの更新
-
-  git pull origin (ブランチ名)
-  
-
+<dl>
 
 パッケージの情報をrosシステムへ更新
 
