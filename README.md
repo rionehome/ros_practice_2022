@@ -63,6 +63,7 @@
   
   
 **その他**
+  - rosmsg show (メッセージ名)
   - rosnode list  
   - rosnode info (ノード名)  
   - rostopic list  
