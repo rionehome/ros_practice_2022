@@ -1,9 +1,9 @@
 # ros_practice_2022
 
 **パソコンからgithubへの更新**
-  -$git add (ファイル名)
-  -$git commit -m "(メッセージ)
-  -$git push origin (ブランチ名)
+  - git add (ファイル名)  
+  - git commit -m "(メッセージ)  
+  - git push origin (ブランチ名)  
 
   <dt>ブランチの作成
     <dd>git branch (ブランチ名)</dd>
